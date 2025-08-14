@@ -1,7 +1,7 @@
 # 🛡️ Hoja de Observación - Prueba cruzada de guerreros
 
-**Nombre del equipo que prueba:** Equipo QA  
-**Nombre del equipo dueño del código:** Equipo Desarrollo GuerreroSim  
+**Nombre del equipo que prueba:** Maria Fernanda Arzate Tolentino  
+**Nombre del equipo dueño del código:** Kevin Tijerina del Castillo  
 **Fecha:** 2025-08-12
 
 ---
